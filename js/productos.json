@@ -1,0 +1,182 @@
+[
+    {
+        "id": "proteina-01",
+        "titulo": "Whey Protein doy Pack 2lbs",
+        "imagen": "./imagenes/Proteinas/prote doy pack.jpeg",
+        "categoria": {
+            "nombre": "Proteinas",
+            "id": "proteinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "proteina-02",
+        "titulo": "Iso whey Ripped",
+        "imagen": "./imagenes/Proteinas/iso whey ripped.jpeg",
+        "categoria": {
+            "nombre": "Proteinas",
+            "id": "proteinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "proteina-03",
+        "titulo": "Nitro Whey protein",
+        "imagen": "./imagenes/Proteinas/nitro hey.png",
+        "categoria": {
+            "nombre": "Proteinas",
+            "id": "proteinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "proteina-04",
+        "titulo": "Proteina vegana GN",
+        "imagen": "./imagenes/prote vegaana.jpeg",
+        "categoria": {
+            "nombre": "Proteinas",
+            "id": "proteinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "proteina-05",
+        "titulo": "Nitro whey protein",
+        "imagen": "./imagenes/Proteinas/nitro whey.jpeg",
+        "categoria": {
+            "nombre": "Proteinas",
+            "id": "proteinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "creatina-01",
+        "titulo": "Creatina Ena Sabor frutilla",
+        "imagen": "./imagenes/creatinas/Crea ena SF.jpeg",
+        "categoria": {
+            "nombre": "Creatinas",
+            "id": "creatinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "creatina-02",
+        "titulo": "Creatina Ena s/sabor",
+        "imagen": "./imagenes/creatinas/Crea ena ss.jpeg",
+        "categoria": {
+            "nombre": "Creatinas",
+            "id": "creatinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "creatina-03",
+        "titulo": "Creatina Creapure",
+        "imagen": "./imagenes/creatinas/creapure 150.png",
+        "categoria": {
+            "nombre": "Creatinas",
+            "id": "creatinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "creatina-04",
+        "titulo": "Creatina Star Nutrition 300gr",
+        "imagen": "./imagenes/creatinas/creatina sn 300.jpeg",
+        "categoria": {
+            "nombre": "Creatinas",
+            "id": "creatinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "creatina-05",
+        "titulo": "Creatina Star Nutrition 1kg",
+        "imagen": "./imagenes/creatinas/creatina 1kg.jpeg",
+        "categoria": {
+            "nombre": "Creatinas",
+            "id": "creatinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "creatina-06",
+        "titulo": "Creatina Ultra tech 300gr",
+        "imagen": "./imagenes/creatinas/creatina ut 300.jpeg",
+        "categoria": {
+            "nombre": "Creatinas",
+            "id": "creatinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "creatinas-07",
+        "titulo": "Creatina Ultra Tech 1kg",
+        "imagen": "./imagenes/creatinas/creatina UT 1k.jpeg",
+        "categoria": {
+            "nombre": "Creatinas",
+            "id": "ccreatinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "otros-01",
+        "titulo": "Iron bar sabores varios",
+        "imagen": "./imagenes/otros/Iron bar.jpeg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "otros-02",
+        "titulo": "EEAs Star Nutrition",
+        "imagen": "./imagenes/otros/EEA.jpeg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "otros-03",
+        "titulo": "BCAA Mtor",
+        "imagen": "./imagenes/otros/Motor BCAA.jpeg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "otros-04",
+        "titulo": "Pre-Entreno Pump v8",
+        "imagen": "./imagenes/otros/Pre entreno star.jpeg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "otros-05",
+        "titulo": "Pre-Entreno Pump 3D Ripped",
+        "imagen": "./imagenes/otros/Pump 3d ripped.jpeg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "otros-06",
+        "titulo": "Barras Proteicas Ena",
+        "imagen": "./imagenes/otros/barritas ena.png",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 1000
+    }
+]
