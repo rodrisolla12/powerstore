@@ -2,8 +2,8 @@
 
 :root {
     --clr-main: #61f054;
-    --clr-main-light: #2a2a2b;
-    --clr-white: #080808;
+    --clr-dark: #2a2a2b;
+    --clr-black: #080808;
     --clr-gray: #767876;
     --clr-red: #961818;
 }
@@ -37,7 +37,7 @@ a {
 aside {
     padding: 2rem;
     padding-right: 0;
-    color: var(--clr-white);
+    color: var(--clr-black);
     position: sticky;
     top: 0;
     height: 100vh;
@@ -60,7 +60,7 @@ aside {
 .boton-menu {
     background-color: transparent;
     border: 0;
-    color: var(--clr-white);
+    color: var(--clr-black);
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -72,7 +72,7 @@ aside {
 }
 
 .boton-menu.active {
-    background-color: var(--clr-white);
+    background-color: var(--clr-black);
     color: var(--clr-main);
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
@@ -88,7 +88,7 @@ aside {
     right: 0;
     background-color: transparent;
     border-bottom-right-radius: .5rem;
-    box-shadow: 0 1rem 0 var(--clr-white);
+    box-shadow: 0 1rem 0 var(--clr-black);
 }
 
 .boton-menu.active::after {
@@ -100,20 +100,16 @@ aside {
     right: 0;
     background-color: transparent;
     border-top-right-radius: .5rem;
-    box-shadow: 0 -1rem 0 var(--clr-white);
+    box-shadow: 0 -1rem 0 var(--clr-black);
 }
 
-.boton-menu > i.bi-hand-index-thumb-fill,
-.boton-menu > i.bi-hand-index-thumb {
-    transform: rotateZ(90deg);
-}
 
 .boton-carrito {
     margin-top: 2rem;
 }
 
 .numerito {
-    background-color: var(--clr-white);
+    background-color: var(--clr-black);
     color: var(--clr-main);
     padding: .15rem .25rem;
     border-radius: .25rem;
@@ -121,16 +117,16 @@ aside {
 
 .boton-carrito.active .numerito {
     background-color: var(--clr-main);
-    color: var(--clr-white);
+    color: var(--clr-black);
 }
 
 .texto-footer {
-    color: var(--clr-main-light);
+    color: var(--clr-dark);
     font-size: .85rem;
 }
 
 main {
-    background-color: var(--clr-white);
+    background-color: var(--clr-black);
     margin: 1rem;
     margin-left: 0;
     border-radius: 2rem;
@@ -155,7 +151,7 @@ main {
 
 .producto-detalles {
     background-color: var(--clr-main);
-    color: var(--clr-white);
+    color: var(--clr-black);
     padding: .5rem;
     border-radius: 1rem;
     margin-top: -2rem;
@@ -171,19 +167,19 @@ main {
 
 .producto-agregar {
     border: 0;
-    background-color: var(--clr-white);
+    background-color: var(--clr-black);
     color: var(--clr-main);
     padding: .4rem;
     text-transform: uppercase;
     border-radius: 2rem;
     cursor: pointer;
-    border: 2px solid var(--clr-white);
+    border: 2px solid var(--clr-black);
     transition: background-color .2s, color .2s;
 }
 
 .producto-agregar:hover {
     background-color: var(--clr-main);
-    color: var(--clr-white);
+    color: var(--clr-black);
 }
 
 
@@ -267,7 +263,7 @@ main {
     border: 0;
     background-color: var(--clr-main);
     padding: 1rem;
-    color: var(--clr-white);
+    color: var(--clr-black);
     text-transform: uppercase;
     cursor: pointer;
     border-top-right-radius: 1rem;
